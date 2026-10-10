@@ -1,18 +1,8 @@
-# Cafe AI — Conversational Coffee Shop Ordering
+# CafeAssistent — Conversational Coffee Shop Ordering
 
 A production-grade React Native (Expo) ordering app paired with a Node.js backend, where customers can browse a menu, build a cart through a polished mobile UI, **and** order in plain English via a conversational AI assistant. Natural-language inputs like *"add two large oat lattes, a blueberry muffin, and a sandwich"* are parsed into structured cart actions and applied in real time.
 
 Built for the Viridien take-home assignment. Designed to run identically on **iOS Simulator**, **Android Expo Go**, and **any modern web browser** with zero per-device configuration.
-
----
-
-## 🎬 Demo video
-
-**▶️ [Watch the 5-minute walkthrough on Loom](https://www.loom.com/share/8333a45e5c124626ac4b75388942b628)**
-
-The video covers the UI experience, AI-driven cart interactions across multiple categories, off-menu fallback handling, and a short tour of the code structure and AI tools used to build it.
-
----
 
 ## Table of contents
 
